@@ -22,5 +22,6 @@
 - 🧠 JavaScript  
 
 ---
+![image](https://github.com/user-attachments/assets/7caf576d-98b6-42f1-9dc0-b99e185c3b73)
 
 ![image](https://github.com/user-attachments/assets/eddde448-23eb-48bb-82a3-af084e7c9443)
